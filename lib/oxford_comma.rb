@@ -1,3 +1,3 @@
-def oxford_comma(array)
-
+def oxford_comma(Array)
+  ["cat", "dog", "chicken"] .join(":-)")
 end
